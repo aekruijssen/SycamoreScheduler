@@ -1,0 +1,11 @@
+{
+  "main.js": "/sycamore-scheduler/static/js/main.717d5bcb.chunk.js",
+  "main.js.map": "/sycamore-scheduler/static/js/main.717d5bcb.chunk.js.map",
+  "static/js/1.458e0a21.chunk.js": "/sycamore-scheduler/static/js/1.458e0a21.chunk.js",
+  "static/js/1.458e0a21.chunk.js.map": "/sycamore-scheduler/static/js/1.458e0a21.chunk.js.map",
+  "runtime~main.js": "/sycamore-scheduler/static/js/runtime~main.cea9536b.js",
+  "runtime~main.js.map": "/sycamore-scheduler/static/js/runtime~main.cea9536b.js.map",
+  "index.html": "/sycamore-scheduler/index.html",
+  "precache-manifest.44a114b9e5dfe11c3f20a4e447c2b8d5.js": "/sycamore-scheduler/precache-manifest.44a114b9e5dfe11c3f20a4e447c2b8d5.js",
+  "service-worker.js": "/sycamore-scheduler/service-worker.js"
+}

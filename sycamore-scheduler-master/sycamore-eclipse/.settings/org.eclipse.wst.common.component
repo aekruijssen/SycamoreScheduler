@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="sycamore-scheduler">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="mysql-connector-java-8.0.12.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/sycamore-scheduler/mysql-connector-java-8.0.12.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gson-2.8.0.jar" deploy-path="/WEB-INF/lib" handle="module:/classpath/lib/sycamore-scheduler/gson-2.8.0.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                
+        <property name="java-output-path" value="/sycamore-scheduler/build/classes"/>
+        <property name="context-root" value="sycamore-scheduler"/>
+            
+    </wb-module>
+    
+</project-modules>
