@@ -6,6 +6,8 @@ Final Course Team Project for CSCI 201 - Principles of Software Development
 - Stored in SQL database along with user account data (saved major, class history, friends they follow, etc.)
 - My role was implementing web sockets and multi-threading to enable real-time collaborative editing (similar to Google Docs)
 - Learned proper software development methodologies, source/version control with Git, pair programming, and documentation
+- Frontend: Javascript, React.js, Maven, Grommet framework, BeautifulSoup HTML parsing library 
+- Backend: Java Servlets, Python scripting, JSON data parsing, MySQL Database
 
 <img src="/img/Logo.JPG" alt="Logo"/>
 
