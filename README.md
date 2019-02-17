@@ -28,4 +28,5 @@ Class Hierarchy/Diagram
 
 <img src="/img/Classes.JPG" alt="Classes"/>
 
+These classes manage the collaborative editing feature, using multithreading and WebSockets:
 <img src="/img/Classes2.JPG" alt="Classes2"/>
