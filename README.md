@@ -1,7 +1,6 @@
 # SycamoreScheduler
 Final Course Team Project for CSCI 201 - Principles of Software Development
 
-- Course plan web app
 - Python web scraper collected course data from USC site
 - Stored in SQL database along with user account data (saved major, class history, friends they follow, etc.)
 - My role was implementing web sockets and multi-threading to enable real-time collaborative editing (similar to Google Docs)
