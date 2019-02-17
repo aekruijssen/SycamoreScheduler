@@ -5,7 +5,7 @@ Browse through classes at USC and view relevant information, including RateMyPro
 
 - Python web scraper collected course data from USC site
 - Stored in SQL database along with user account data (saved major, completed course history, friends they follow, etc.)
-- My role was implementing web sockets and multi-threading to enable real-time collaborative editing (similar to Google Docs)
+- My role was implementing web sockets and multi-threading to enable real-time collaborative editing, similar to Google Docs (more info w/ class diagram below)
 - Learned proper software development methodologies, source/version control with Git, pair programming, and documentation
 - Frontend: Javascript, React.js, Maven, Grommet framework, BeautifulSoup HTML parsing library 
 - Backend: Java Servlets, Python scripting, JSON data parsing, MySQL Database
